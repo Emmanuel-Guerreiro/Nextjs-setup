@@ -2,6 +2,8 @@
 
 It is a nextjs setup with all instalation already done.
 
-Just do a npm install and start coding.
+Is used by a template
+
+Clone, npm install and start coding.
 
 ## This project has been thought for personal usage :exclamation: :grey_exclamation: :rocket:
